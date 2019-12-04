@@ -1,6 +1,4 @@
 # LetterCruncher
-CSC 214 CSC214 Instructor on 9/16/18.  Copyright © 2018 University of Rochester. All rights reserved.
-
 
 This is a homework for Univeristy of Rochester CSC 214 app development and this simple app is used for convert letter to digit with a maximum length 7, which would be the last seven digit for a phone number
 
